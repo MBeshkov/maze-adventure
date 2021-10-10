@@ -1,6 +1,8 @@
 # maze-adventure
 Python text-based cmd adventure game
 
+Originally created in 2019.
+
 
 The implementation of the game consists of several modules. These are:
 - _goblin.py_ and _monster.py_, where the blueprints for NPC objects are created
